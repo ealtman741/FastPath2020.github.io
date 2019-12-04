@@ -1,4 +1,4 @@
-##FastPath 2020 - CALL FOR PAPERS
+## FastPath 2020 - CALL FOR PAPERS
 
 **International Workshop on Performance Analysis of Machine Learning Systems**
 
@@ -13,7 +13,7 @@ FastPath 2019 brings together researchers and practitioners involved in crosssta
 
 These include distributed training on big data, hyper-parameter tuning for models, emerging accelerators, fast I/O for random inputs, approximate computing for training and inference, programming models for a diverse machine-learning workloads, high-bandwidth interconnect, efficient mapping of processing logic on hardware, and cross system stack performance optimization. Emerging infrastructure supporting big data analytics, cognitive computing, large-scale machine learning, mobile computing, and internet-of-things, exemplify system designs optimized for machine learning at large.
 
-##TOPICS
+## TOPICS
 
 FastPath seeks to facilitate the exchange of ideas on performance optimization of machine learning/AI systems and seeks papers on a wide range of topics including, but not limited to:
 
@@ -32,20 +32,20 @@ FastPath seeks to facilitate the exchange of ideas on performance optimization o
 - Converged/integrated infrastructure
 - Machine learning systems for specific domains, e.g., financial, biological, education, commerce, healthcare
 
-##SUBMISSION
+## SUBMISSION
 
 Prospective authors must submit a 2-4 page extended abstract electronically at:
 https://easychair.org/conferences/?conf=fastpath2020
 
 Authors of selected abstracts will be invited to give a 30-min presentation at the workshop.
 
-##KEY DATES
+## KEY DATES
 
 Submission: January 17, 2020
 Notification: February 14, 2020
 Final Materials / Workshop: April 5, 2020
 
-##ORGANIZERS
+## ORGANIZERS
 
 General Chair: Erik Altman
 Program Committee Chairs: Parijat Dube
