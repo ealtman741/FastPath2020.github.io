@@ -29,9 +29,9 @@ FastPath seeks to facilitate the exchange of ideas on performance analysis and e
 - Machine learning systems for specific domains, e.g., financial, biological, education, commerce, healthcare
 
 ## Submission
-The FastPath 2020 Call for Papers is available **(here)[].
+The FastPath 2020 Call for Papers is available **[here](https://researcher.watson.ibm.com/researcher/files/us-ealtman/FastPath2019CFP.pdf).
 
-Prospective authors must submit a 2-4 page extended abstract electronically on **(EasyChair)[https://easychair.org/conferences/?conf=fastpath2020]**
+Prospective authors must submit a 2-4 page extended abstract electronically on **[EasyChair](https://easychair.org/conferences/?conf=fastpath2020)**
 
 Authors of selected abstracts will be invited to give a 30-min presentation at the workshop.
 
