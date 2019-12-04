@@ -42,20 +42,33 @@ FastPath seeks to facilitate the exchange of ideas on performance optimization o
 machine learning/AI systems and seeks papers on a wide range of topics including,
 but not limited to:
 
- o Workload characterization, performance modeling and profiling of machine 
+ o Workload characterization, performance modeling and profiling of machine
    learning applications
+   
  o GPUs, FPGAs, ASIC accelerators
+ 
  o Memory, I/O, storage, network accelerators
+ 
  o Hardware/software co-design
+ 
  o Efficient machine learning algorithms
+ 
  o Approximate computing in machine learning
+ 
  o Power/Energy and learning acceleration
+ 
  o Software, library, and runtime for machine learning systems
+ 
  o Workload scheduling and orchestration
+ 
  o Machine learning in cloud systems
+ 
  o Large-scale machine learning systems
+ 
  o Emerging intelligent/cognitive system
+ 
  o Converged/integrated infrastructure
+ 
  o Machine learning systems for specific domains, e.g., financial, biological, 
    education, commerce, healthcare
 
@@ -68,9 +81,13 @@ Authors of selected abstracts will be invited to give a 30-min presentation at t
 
 KEY DATES
 Submission: January 17, 2020
+
 Notification: February 14, 2020
+
 Final Materials / Workshop: April 5, 2020
 
 ORGANIZERS
+
 General Chair: Erik Altman
+
 Program Committee Chairs: Parijat Dube
