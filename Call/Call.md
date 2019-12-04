@@ -12,6 +12,7 @@ In conjunction with ISPASS 2020:
 http://www.ispass.org/ispass2020
 
 
+
 SUMMARY
 
 FastPath 2019 brings together researchers and practitioners involved in crossstack 
@@ -34,6 +35,7 @@ hardware, and cross system stack performance optimization. Emerging
 infrastructure supporting big data analytics, cognitive computing, large-scale
 machine learning, mobile computing, and internet-of-things, exemplify system
 designs optimized for machine learning at large.
+
 
 
 TOPICS
@@ -73,12 +75,14 @@ but not limited to:
    education, commerce, healthcare
 
 
+
 SUBMISSION
 
 Prospective authors must submit a 2-4 page extended abstract electronically at:
 https://easychair.org/conferences/?conf=fastpath2020
 
 Authors of selected abstracts will be invited to give a 30-min presentation at the workshop.
+
 
 
 KEY DATES
@@ -88,6 +92,7 @@ Submission: January 17, 2020
 Notification: February 14, 2020
 
 Final Materials / Workshop: April 5, 2020
+
 
 
 ORGANIZERS
