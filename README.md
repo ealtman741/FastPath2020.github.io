@@ -1,5 +1,3 @@
-_Under Construction_
-
 ## International Workshop on Performance Analysis of Machine Learning Systems
 April 5, 2020 -- Boston, Massachusetts, USA
 
