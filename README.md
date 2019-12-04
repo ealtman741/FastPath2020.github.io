@@ -36,6 +36,26 @@ Prospective authors must submit a 2-4 page extended abstract electronically on *
 Authors of selected abstracts will be invited to give a 30-min presentation at the workshop.
 
 ## Key Dates
+
+<table>
+	<tr>
+		<th>Item</th>
+		<th>Date</th>
+ 	</tr>
+ 	<tr>
+  		<td>Submission</td>
+   		<td>January 17, 2020</td>
+ 	</tr>
+   	<tr>
+  		<td>Notification</td>
+   		<td>February 14, 2020</td>
+ 	</tr>
+   	<tr>
+  		<td>Final materials / Workshop</td>
+   		<td>April 5, 2020</td>
+ 	</tr>
+  </table>
+  
 | Item                       | Date              |
 | ----                       | ----              |
 | Submission                 | January  17, 2020 |
