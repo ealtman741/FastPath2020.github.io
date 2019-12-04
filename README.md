@@ -38,7 +38,7 @@ Authors of selected abstracts will be invited to give a 30-min presentation at t
 ## Key Dates
  
 | Item                       | Date              |
-| ----                       | ----              |
+| ----                       | ----:             |
 | Submission                 | January  17, 2020 |
 | Notification               | February 14, 2020 |
 | Final Materials / Workshop | April     5, 2020 |
