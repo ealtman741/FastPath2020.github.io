@@ -35,6 +35,7 @@ infrastructure supporting big data analytics, cognitive computing, large-scale
 machine learning, mobile computing, and internet-of-things, exemplify system
 designs optimized for machine learning at large.
 
+
 TOPICS
 
 FastPath seeks to facilitate the exchange of ideas on performance optimization of
@@ -71,12 +72,14 @@ but not limited to:
  o Machine learning systems for specific domains, e.g., financial, biological, 
    education, commerce, healthcare
 
+
 SUBMISSION
 
 Prospective authors must submit a 2-4 page extended abstract electronically at:
 https://easychair.org/conferences/?conf=fastpath2020
 
 Authors of selected abstracts will be invited to give a 30-min presentation at the workshop.
+
 
 KEY DATES
 
@@ -85,6 +88,7 @@ Submission: January 17, 2020
 Notification: February 14, 2020
 
 Final Materials / Workshop: April 5, 2020
+
 
 ORGANIZERS
 
