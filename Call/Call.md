@@ -38,7 +38,6 @@ designs optimized for machine learning at large.
 TOPICS
 
 FastPath seeks to facilitate the exchange of ideas on performance optimization of
-
 machine learning/AI systems and seeks papers on a wide range of topics including,
 but not limited to:
 
@@ -80,6 +79,7 @@ https://easychair.org/conferences/?conf=fastpath2020
 Authors of selected abstracts will be invited to give a 30-min presentation at the workshop.
 
 KEY DATES
+
 Submission: January 17, 2020
 
 Notification: February 14, 2020
