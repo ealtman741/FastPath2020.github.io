@@ -8,6 +8,24 @@ In conjunction with **[ISPASS 2020](https://www.ispass.org/ispass2020)**
 
 These include distributed training on big data, hyper-parameter tuning for models, emerging accelerators, fast I/O for random inputs, approximate computing for training and inference, programming models for a diverse machine-learning workloads, high-bandwidth interconnect, efficient mapping of processing logic on hardware, and cross system stack performance optimization. Emerging infrastructure supporting big data analytics, cognitive computing, large-scale machine learning, mobile computing, and internet-of-things, exemplify system designs optimized for machine learning at large.
 
+## Topics
+FastPath seeks to facilitate the exchange of ideas on performance analysis and evaluation of machine learning/AI systems and seeks papers on a wide range of topics including, but not limited to:
+
+- Workload characterization, performance modeling and profiling of machine learning applications
+- GPUs, FPGAs, ASIC accelerators
+- Memory, I/O, storage, network accelerators
+- Hardware/software co-design
+- Efficient machine learning algorithms
+- Approximate computing in machine learning
+- Power/Energy and learning acceleration
+- Software, library, and runtime for machine learning systems
+- Workload scheduling and orchestration
+- Machine learning in cloud systems
+- Large-scale machine learning systems
+- Emerging intelligent/cognitive systems
+- Converged/integrated infrastructure
+- Machine learning systems for specific domains, e.g., financial, biological, education, commerce, healthcare
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/FastPath2020/FastPath2020.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
