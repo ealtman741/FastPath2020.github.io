@@ -57,15 +57,15 @@ _TBD_
 
 ## Previous Editions
 
-**[FastPath 2019](https://tinyurl.com/2019-FastPath)** was held in conjunction with ISPASS 2019. Full-day with 8 invited speakers.
+**[FastPath 2019](https://tinyurl.com/2019-FastPath)** was held in conjunction with ISPASS 2019. Full-day with 8 invited speakers and 3 regular speakers.
 
-**[FastPath 2018](https://researcher.watson.ibm.com/researcher/view_group.php?id=8493)** was held in conjunction with ISPASS 2018. Full-day with 4 invited speakers and panel.
+**[FastPath 2018](https://researcher.watson.ibm.com/researcher/view_group.php?id=8493)** was held in conjunction with ISPASS 2018. Full-day with 4 invited speakers and a panel.
 
 **[FastPath 2015](https://researcher.watson.ibm.com/researcher/view_group.php?id=5865)** was held in conjunction with ISPASS 2015. Half-day with 4 invited speakers.
 
-**[FastPath 2014](http://researcher.ibm.com/project/4338)** was held in conjunction with ISPASS 2014. Full-day with 3 invited speakers and 4 Regular speaker.
+**[FastPath 2014](http://researcher.ibm.com/project/4338)** was held in conjunction with ISPASS 2014. Full-day with 3 invited speakers and 4 regular speakers.
 
-**[FastPath 2013](http://researcher.ibm.com/project/5276)** was held in conjunction with ISPASS 2013. Full-day with 1 keynote speaker, 6 invited speakers and 1 Regular speaker.
+**[FastPath 2013](http://researcher.ibm.com/project/5276)** was held in conjunction with ISPASS 2013. Full-day with 1 keynote speaker, 6 invited speakers and 1 regular speaker.
 
 **[FastPath 2012](https://sites.google.com/site/fastpath2012)** was held in conjunction with ISPASS 2012. Half-day with 1 keynote speaker and 3 invited speakers.
 
