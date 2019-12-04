@@ -1,8 +1,6 @@
 CALL FOR PAPERS
 
-FastPath 2020
-
-International Workshop on Performance Analysis of Machine Learning Systems
+FastPath 2020:  International Workshop on Performance Analysis of Machine Learning Systems
 
 April 5, 2020 - Boston, Massachusetts, United States
 
