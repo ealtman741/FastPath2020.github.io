@@ -1,3 +1,5 @@
+_Under Construction_
+
 ## International Workshop on Performance Analysis of Machine Learning Systems
 April 5, 2020 -- Boston, Massachusetts, USA
 
@@ -25,6 +27,21 @@ FastPath seeks to facilitate the exchange of ideas on performance analysis and e
 - Emerging intelligent/cognitive systems
 - Converged/integrated infrastructure
 - Machine learning systems for specific domains, e.g., financial, biological, education, commerce, healthcare
+
+## Submission
+The FastPath 2020 Call for Papers is available **(here)[].
+
+Prospective authors must submit a 2-4 page extended abstract electronically on **(EasyChair)[https://easychair.org/conferences/?conf=fastpath2020]**
+
+Authors of selected abstracts will be invited to give a 30-min presentation at the workshop.
+
+## Key Dates
+| Item                       | Date              |
+| ----                       | ----              |
+| Submission                 | January  17, 2020 |
+| Notification               | February 14, 2020 |
+| Final Materials / Workshop | April     5, 2020 |
+
 
 ## Welcome to GitHub Pages
 
