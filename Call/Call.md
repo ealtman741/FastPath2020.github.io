@@ -2,14 +2,11 @@ CALL FOR PAPERS
 
 FastPath 2020:  International Workshop on Performance Analysis of Machine Learning Systems
 
-April 5, 2020 - Boston, Massachusetts, United States
-
 https://fastpath2020.github.io
 
+April 5, 2020 - Boston, Massachusetts, United States
 
-In conjunction with ISPASS 2020:
-
-http://www.ispass.org/ispass2020
+In conjunction with ISPASS 2020:  http://www.ispass.org/ispass2020
 
 
 SUMMARY
