@@ -1,4 +1,6 @@
-FastPath 2020 - CALL FOR PAPERS
+CALL FOR PAPERS
+
+FastPath 2020
 
 International Workshop on Performance Analysis of Machine Learning Systems
 
