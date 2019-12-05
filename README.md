@@ -43,11 +43,12 @@ Authors of selected abstracts will be invited to give a 30-min presentation at t
 
 ## Organizers
 
-| Role            | People             |
-| ----            | ----               |
-| General Chair   | Erik Altman (IBM)  |
-| Program Chairs  | Parijat Dube (IBM), Vijay Janapa Reddi (Harvard) |
-| Publicity Chair | _TBD_              |
+| Role            | People                       |
+| ----            | ----                         |
+| General Chair   | Erik Altman (IBM)            |
+| Program Chairs  | Parijat Dube (IBM)           |
+|                 | Vijay Janapa Reddi (Harvard) |
+| Publicity Chair | _TBD_                        |
 
 ## Program Committee
 
