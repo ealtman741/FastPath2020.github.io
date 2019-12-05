@@ -91,6 +91,7 @@ Final Materials / Workshop: April 5, 2020
 
 ORGANIZERS
 
-General Chair: Erik Altman
+General Chair:             Erik Altman
 
-Program Committee Chairs: Parijat Dube
+Program Committee Chairs:  Parijat Dube
+                           Vijay Janapa Reddi
