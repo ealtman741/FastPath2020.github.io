@@ -95,3 +95,5 @@ General Chair:             Erik Altman
 
 Program Committee Chairs:  Parijat Dube
                            Vijay Janapa Reddi
+                           
+Publicity Chair:           Falk Pollok
