@@ -37,8 +37,8 @@ Authors of selected abstracts will be invited to give a 30-min presentation at t
  
 | Item                       | Date              |
 | ----                       | ----:             |
-| Submission                 | January  24, 2020 |
-| Notification               | February 14, 2020 |
+| Submission                 | February 21, 2020 |
+| Notification               | March     2, 2020 |
 | Final Materials / Workshop | April     5, 2020 |
 
 ## Organizers
@@ -48,7 +48,7 @@ Authors of selected abstracts will be invited to give a 30-min presentation at t
 | General Chair   | Erik Altman (IBM)            |
 | Program Chairs  | Parijat Dube (IBM)           |
 |                 | Vijay Janapa Reddi (Harvard) |
-| Publicity Chair | _TBD_                        |
+| Publicity Chair | Falk Pollok (IBM)            |
 
 ## Program Committee
 
