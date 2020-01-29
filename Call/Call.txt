@@ -101,9 +101,9 @@ Publicity Chair:           Falk Pollok
 
 PROGRAM COMMITTEE
 
-Christophe Dubach 	        McGill University
+Christophe Dubach 	     McGill University
 Christopher Fletcher 	     University of Illinois at Urbana-Champaign
-Jangwoo Kim 	              Seoul National University
-Tushar Krishna 	           Georgia Tech
-Gennady Pekhimenko 	       University of Toronto
-Brandon Reagan 	           NYU / Facebook
+Jangwoo Kim 	             Seoul National University
+Tushar Krishna 	              Georgia Tech
+Gennady Pekhimenko 	     University of Toronto
+Brandon Reagan 	              NYU / Facebook
