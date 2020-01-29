@@ -52,7 +52,13 @@ Authors of selected abstracts will be invited to give a 30-min presentation at t
 
 ## Program Committee
 
-_TBD_
+| PC Member            | Affiliation               |
+| Christophe Dubach    | McGill University         |
+| Christopher Fletcher | University of Illinois at Urbana-Champaign |
+| Jangwoo Kim          | Seoul National University |
+| Tushar Krishna       | Georgia Tech              |
+| Gennady Pekhimenko   | University of Toronto     |
+| Brandon Reagan       | NYU / Facebook            |
 
 ## Previous Editions
 
