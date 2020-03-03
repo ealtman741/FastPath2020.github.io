@@ -1,5 +1,6 @@
 ## Yuhao Zhu
-Assistant Professor – Computer Science Department, University of Rochester<br>
+Assistant Professor – Computer Science Department, University of Rochester
+
 Affiliated Faculty - Goergen Institute for Data Science
 
 **Invited Talk:**
