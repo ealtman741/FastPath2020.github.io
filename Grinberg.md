@@ -12,7 +12,7 @@ Unsupervised Training and Unified Global Address Spaces
 
 In this talk we will focus on computational aspects and implementation of numerical algorithms for Unsupervised Local Machine Learning. Specifically, on the the use of the Unified Virtual Address Space (UVAS) within a single OS image. We will discuss the impact of UVAS from the algorithmic development and performance standpoints. In particular we will review the implementation of loading of batches of data for training, reduction of gradients from multiple compute elements, and model update implementations using the UVAS where multiple GPUs process data, which is distributed over the GPUs and CPUs memories.
 
-(Joint work with Dmitry Krotov)
+*(Joint work with Dmitry Krotov)*
 
 **Biography:**
 
