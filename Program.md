@@ -5,9 +5,9 @@ In conjunction with **[ISPASS 2020](https://www.ispass.org/ispass2020)**
 
 ## Invited Speakers
 
-| Speaker            | Affiliation                      |
-| ----               | ----                             |
-| Grigori Fursin     | Co-Founder and CTO – CodeReef.ai |
+| Speaker                                                   | Affiliation                      |
+| ----                                                      | ----                             |
+| [Grigori Fursin](https://fastpath2020.github.io/Fursin)   | Co-Founder and CTO – CodeReef.ai |
 | Yuhao Zhu          | University of Rochester          |
 | Leopold Grinberg   | IBM Research                     |
 | Colby Banbury      | Harvard University               |
