@@ -15,5 +15,5 @@ In this talk, I will explain why today's computer systems and architecture are n
 
 **Bio**
 
-Yuhao Zhu is an Assistant Professor of Computer Science at the University of Rochester. His current research focuses on architecting future visual computing systems. He received the Honorable Mention of the 2018 ACM SIGARCH/IEEE-CS TCCA Outstanding Dissertation Award and IEEE Micro Top Picks from Computer Architecture Conferences (2015, 2018, 2019). He received his Ph.D. from The University of Texas at Austin. More about his group's research can be found at: http://horizon-lab.org.
+Yuhao Zhu is an Assistant Professor of Computer Science at the University of Rochester. His current research focuses on architecting future visual computing systems. He received the Honorable Mention of the 2018 ACM SIGARCH/IEEE-CS TCCA Outstanding Dissertation Award and IEEE Micro Top Picks from Computer Architecture Conferences (2015, 2018, 2019). He received his Ph.D. from The University of Texas at Austin. More about his group's research can be found at: [http://horizon-lab.org](http://horizon-lab.org).
  
