@@ -15,6 +15,12 @@ In conjunction with **[ISPASS 2020](https://www.ispass.org/ispass2020)**
 
 ## Technical Papers
 
+| **Title**   | *SpecNet: Spectral Domain Convolutional Neural Network*                                     |
+| **Authors** | Bochen Guan, Jinnian Zhang, William A. Sethares, Richard Kijowski (University of Wisconsin), Fang Liu (Harvard University)   |
+|             |                                                                                             |
+| **Title**   | *Quantifying the impact of data encoding on DNN fault tolerance*                            |
+| **Authors** | Edward Pyne, Lillian Pentecoste, Udit Gupta, Gu-Yeon Wei, David Brooks (Harvard University) |
+
 *SpecNet: Spectral Domain Convolutional Neural Network*
 
 Bochen Guan, Jinnian Zhang, William A. Sethares, Richard Kijowski (University of Wisconsin)
