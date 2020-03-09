@@ -15,4 +15,9 @@ In conjunction with **[ISPASS 2020](https://www.ispass.org/ispass2020)**
 
 ## Technical Papers
 
-*TBD*
+*SpecNet: Spectral Domain Convolutional Neural Network*
+Bochen Guan (+), Jinnian Zhang (+), William A. Sethares (+), Richard Kijowski (+), Fang Liu (#)
++ = University of Wisconsin, # = Harvard University
+
+*Quantifying the impact of data encoding on DNN fault tolerance*
+Edward Pyne, Lillian Pentecoste, Udit Gupta, Gu-Yeon Wei, David Brooks (Harvard University)
