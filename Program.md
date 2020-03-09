@@ -15,6 +15,8 @@ In conjunction with **[ISPASS 2020](https://www.ispass.org/ispass2020)**
 
 ## Technical Papers
 
+|             |                                                                                             |
+| ----        | ----                                                                                        |
 | **Title**   | *SpecNet: Spectral Domain Convolutional Neural Network*                                     |
 | **Authors** | Bochen Guan, Jinnian Zhang, William A. Sethares, Richard Kijowski (University of Wisconsin), Fang Liu (Harvard University)   |
 |             |                                                                                             |
