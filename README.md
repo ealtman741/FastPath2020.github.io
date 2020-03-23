@@ -5,7 +5,7 @@ In conjunction with **[ISPASS 2020](https://www.ispass.org/ispass2020)**
 
 **[Preliminary Program](https://fastpath2020.github.io/Program)** (Under Construction)
 
-## NEWS
+## News
 
 **March 13, 2020:**  Due to the Covid-19 virus, ISPASS and FastPath will be delayed.  FastPath's new date is Sunday, August 23.
 
