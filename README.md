@@ -6,6 +6,7 @@ In conjunction with **[ISPASS 2020](https://www.ispass.org/ispass2020)**
 **[Preliminary Program](https://fastpath2020.github.io/Program)** (Under Construction)
 
 **NEWS - March 13, 2020:**  Due to the Covid-19 virus, ISPASS and FastPath will be delayed.  FastPath's new date is Sunday, August 23.
+
 **NEWS - March 23, 2020:** Final revisions to papers now due July 25 instead of March 25.
 
 ## Background
@@ -44,7 +45,7 @@ Authors of selected abstracts will be invited to give a 30-min presentation at t
 | ----                       | ----:             |
 | Submission                 | February 21, 2020 |
 | Notification               | March     2, 2020 |
-| Author Revisions Due       | July     25, 2020 |
+| Final Revisions Due        | July     25, 2020 |
 | Workshop                   | August   23, 2020 |
 
 ## Organizers
