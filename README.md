@@ -6,6 +6,7 @@ In conjunction with **[ISPASS 2020](https://www.ispass.org/ispass2020)**
 **[Preliminary Program](https://fastpath2020.github.io/Program)** (Under Construction)
 
 **NEWS - March 13, 2020:**  Due to the Covid-19 virus, ISPASS and FastPath will be delayed.  FastPath's new date is Sunday, August 23.
+**NEWS - March 23, 2020:** Final revisions to papers now due July 25 instead of March 25.
 
 ## Background
 [FastPath 2020](https://fastpath2020.github.io) brings together researchers and practitioners involved in cross-stack hardware/software performance analysis, modeling, and evaluation for efficient machine learning systems. Machine learning demands tremendous amount of computing. Current machine learning systems are diverse, including cellphones, high performance computing systems, database systems, self-driving cars, robotics, and in-home appliances. Many machine-learning systems have customized hardware and/or software. The types and components of such systems vary, but a partial list includes traditional CPUs assisted with accelerators (ASICs, FPGAs, GPUs), memory accelerators, I/O accelerators, hybrid systems, converged infrastructure, and IT appliances. Designing efficient machine learning systems poses several challenges.
@@ -43,7 +44,8 @@ Authors of selected abstracts will be invited to give a 30-min presentation at t
 | ----                       | ----:             |
 | Submission                 | February 21, 2020 |
 | Notification               | March     2, 2020 |
-| Final Materials / Workshop | August   23, 2020 |
+| Author Revisions Due       | July     25, 2020 |
+| Workshop                   | August   23, 2020 |
 
 ## Organizers
 
