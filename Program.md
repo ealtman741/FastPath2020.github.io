@@ -1,5 +1,5 @@
 ## PRELIMINARY PROGRAM - International Workshop on Performance Analysis of Machine Learning Systems
-Sunday, August 23, 2020 -- Boston, Massachusetts, USA
+Sunday, August 23, 2020 -- *(Virtual (Approximately 9:00 am - 5:00 pm US EDT = 13:00 - 21:00 UTC)*
 
 In conjunction with **[ISPASS 2020](https://www.ispass.org/ispass2020)**
 
@@ -13,6 +13,7 @@ In conjunction with **[ISPASS 2020](https://www.ispass.org/ispass2020)**
 | [Leopold Grinberg](https://fastpath2020.github.io/Grinberg)  | IBM Research                     | Unsupervised Training and Unified Global Address Spaces            |
 | [Colby Banbury](https://fastpath2020.github.io/Banbury)      | Harvard University               | tinyMLPerf: Benchmarking Ultra-low Power Machine Learning Systems       |
 | Chuang Gan                                                   | IBM                              | Pending               |
+| Anju Kambadur                                                | Bloomberg L.P.                   | Pending               |
 
 ## Technical Papers
 
