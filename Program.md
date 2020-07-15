@@ -17,10 +17,10 @@ In conjunction with **[ISPASS 2020](https://www.ispass.org/ispass2020)**
 
 ## Technical Papers
 
-|             |                                                                                             |
-| ----        | ----                                                                                        |
-| **Title**   | [*SpecNet: Spectral Domain Convolutional Neural Network*](https://fastpath2020.github.io/Guan)   |
+|             |                                                                                                                              |
+| ----        | ----                                                                                                                         |
+| **Title**   | [*SpecNet: Spectral Domain Convolutional Neural Network*](https://fastpath2020.github.io/Guan)                               |
 | **Authors** | Bochen Guan, Jinnian Zhang, William A. Sethares, Richard Kijowski (University of Wisconsin), Fang Liu (Harvard University)   |
-|             |                                                                                             |
-| **Title**   | *Quantifying the impact of data encoding on DNN fault tolerance*                            |
-| **Authors** | Edward Pyne, Lillian Pentecoste, Udit Gupta, Gu-Yeon Wei, David Brooks (Harvard University) |
+|             |                                                                                                                              |
+| **Title**   | [*Quantifying the impact of data encoding on DNN fault tolerance*](https://fastpath2020.github.io/Pyne)                      |
+| **Authors** | Edward Pyne, Lillian Pentecoste, Udit Gupta, Gu-Yeon Wei, David Brooks (Harvard University)                                  |
