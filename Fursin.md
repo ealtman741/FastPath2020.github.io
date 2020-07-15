@@ -1,9 +1,7 @@
 ## Grigori Fursin 
-Co-Founder and CTO – CodeReef.ai
+### Co-Founder and CTO – CodeReef.ai
 
-**Invited Talk:**
-
-Enabling Reproducible ML&Systems Research:  The Good, the Bad and the Ugly
+### Invited Talk: *Enabling Reproducible ML&Systems Research:  The Good, the Bad and the Ugly*
 
 **Abstract:**
 
