@@ -1,12 +1,8 @@
 ## Leopold Grinberg
 
-Research Staff Member, DataCentric High Performance Computing
+### Research Staff Member, DataCentric High Performance Computing -- IBM Research
 
-IBM Research
-
-**Invited Talk:**
-
-Unsupervised Training and Unified Global Address Spaces
+### Invited Talk:  *Unsupervised Training and Unified Global Address Spaces*
 
 **Abstract:**
 
