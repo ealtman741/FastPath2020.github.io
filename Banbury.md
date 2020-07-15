@@ -1,10 +1,8 @@
 ## Colby Banbury
 
-Harvard University
+### Harvard University
 
-**Invited Talk:**
-
-tinyMLPerf: Benchmarking Ultra-low Power Machine Learning Systems
+### Invited Talk:  *tinyMLPerf: Benchmarking Ultra-low Power Machine Learning Systems*
 
 **Abstract:**
 
