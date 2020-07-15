@@ -13,7 +13,7 @@ In conjunction with **[ISPASS 2020](https://www.ispass.org/ispass2020)**
 | [Leopold Grinberg](https://fastpath2020.github.io/Grinberg)  | IBM Research                     | Unsupervised Training and Unified Global Address Spaces                  |
 | [Colby Banbury](https://fastpath2020.github.io/Banbury)      | Harvard University               | tinyMLPerf: Benchmarking Ultra-low Power Machine Learning Systems        |
 | Chuang Gan                                                   | IBM                              | Pending                                                                  |
-| Anju Kambadur                                                | Bloomberg L.P.                   | Data Science Platform for Bloomberg AI                                   |
+| Anju Kambadur, Ania Musial, Ian Hummel                       | Bloomberg L.P.                   | The Bloomberg Data Science Platform                                      |
 
 ## Technical Papers
 
