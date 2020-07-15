@@ -1,6 +1,6 @@
 ## Anju Kambadur, Ania Musial, Ian Hummel
 
-Bloomberg L.P.
+### Bloomberg L.P.
 
 ### Invited Talk:  *The Bloomberg Data Science Platform*
 
