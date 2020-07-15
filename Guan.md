@@ -1,7 +1,6 @@
-## Bochen  Guan, Jinnian Zhang, William A. Sethares, Richard Kijowski (*)
+## Bochen  Guan, Jinnian Zhang, William Sethares, Richard Kijowski (*)
 ## Fang Liu (+)
-### (*) University of Wisconsin
-### (+) Harvard University
+### (*) University of Wisconsin, (+) Harvard University
 
 ### Technical Talk: *SpecNet: Spectral Domain Convolutional Neural Network*
 
