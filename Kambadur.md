@@ -2,9 +2,7 @@
 
 Bloomberg L.P.
 
-### Invited Talk:
-
-### The Bloomberg Data Science Platform
+### Invited Talk:  *The Bloomberg Data Science Platform*
 
 **Abstract:**
 
