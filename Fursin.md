@@ -1,5 +1,5 @@
 ## Grigori Fursin 
-### Co-Founder and CTO – CodeReef.ai
+### Founder and CEO of cKnowledge SAS, France
 
 ### Invited Talk: *Enabling Reproducible ML&Systems Research:  The Good, the Bad and the Ugly*
 
