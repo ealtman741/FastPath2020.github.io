@@ -2,7 +2,7 @@
 ### Harvard University
 
 ### Technical Talk: *Quantifying the Impact of Data Encoding on DNN Fault Tolerance*
-### [Paper](https://github.com/FastPath2020/FastPath2020.github.io/blob/master/Papers/FastPath2020_Ted_Pyne.pdf)
+### [Paper](https://fastpath2020.github.io/Papers/FastPath2020_Ted_Pyne.pdf)
 
 **Abstract:**
 
