@@ -3,17 +3,17 @@ Sunday, August 23, 2020 -- Virtual *(Approximately 9:00 am - 5:00 pm US EDT = 13
 
 In conjunction with **[ISPASS 2020](https://www.ispass.org/ispass2020)**
 
-## Invited Speakers
+## Program
 
-| Speaker                                                      | Affiliation                        | Talk Title            |
-| ----                                                         | ----                               | ----                  |
-| [Vivienne Sze](https://fastpath2020.github.io/Sze)           | MIT                                | How to Evaluate Efficient Deep Neural Network Approaches                 |
-| [Grigori Fursin](https://fastpath2020.github.io/Fursin)      | Co-Founder and CTO – CodeReef.ai   |Enabling Reproducible ML&Systems Research: The Good, the Bad and the Ugly |
-| [Yuhao Zhu](https://fastpath2020.github.io/Zhu)              | University of Rochester            | Getting Computer Systems Ready for Visual Computing in Ten Years         |
-| [Leopold Grinberg](https://fastpath2020.github.io/Grinberg)  | IBM Research                       | Unsupervised Training and Unified Global Address Spaces                  |
-| [Colby Banbury](https://fastpath2020.github.io/Banbury)      | Harvard University                 | tinyMLPerf: Benchmarking Ultra-low Power Machine Learning Systems        |
-| Chuang Gan                                                   | IBM                                | Pending                                                                  |
-| [Anju Kambadur, Ania Musial, Ian Hummel](https://fastpath2020.github.io/Kambadur) | Bloomberg L.P.| The Bloomberg Data Science Platform                                      |
+| Speaker                                                      | Affiliation                      | Talk Title            |
+| ----                                                         | ----                             | ----                  |
+| [Vivienne Sze](https://fastpath2020.github.io/Sze)           | MIT                              | [How to Evaluate Efficient Deep Neural Network Approaches](https://fastpath2020.github.io/Sze)                   |
+| [Grigori Fursin](https://fastpath2020.github.io/Fursin)      | Co-Founder and CTO – CodeReef.ai | [Enabling Reproducible ML&Systems Research: The Good, the Bad and the Ugly](https://fastpath2020.github.io/Fursin) |
+| [Yuhao Zhu](https://fastpath2020.github.io/Zhu)              | University of Rochester          | [Getting Computer Systems Ready for Visual Computing in Ten Years](https://fastpath2020.github.io/Zhu)         |
+| [Leopold Grinberg](https://fastpath2020.github.io/Grinberg)  | IBM Research                     | [Unsupervised Training and Unified Global Address Spaces](https://fastpath2020.github.io/Grinberg)                   |
+| [Colby Banbury](https://fastpath2020.github.io/Banbury)      | Harvard University               | [tinyMLPerf: Benchmarking Ultra-low Power Machine Learning Systems](https://fastpath2020.github.io/Banbury)        |
+| Chuang Gan                                                   | IBM                              | [Pending]                                                                 |
+| [Anju Kambadur, Ania Musial, Ian Hummel](https://fastpath2020.github.io/Kambadur) | Bloomberg L.P.| [The Bloomberg Data Science Platform](https://fastpath2020.github.io/Kambadur)                                      |
 
 ## Technical Papers
 
